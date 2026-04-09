@@ -4,7 +4,7 @@ datasources:
   - name: AMP
     type: prometheus
     access: proxy
-    url: https://aps-workspaces.ap-northeast-2.amazonaws.com/workspaces/ws-xxxx
+    url: https://aps-workspaces.ap-northeast-2.amazonaws.com/workspaces/ws-c3787389-6902-4c4f-ac98-54699d1a7f11/api/v1/query
     isDefault: true
     jsonData:
       sigV4Auth: true
